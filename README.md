@@ -1,6 +1,6 @@
-# MACE-Prediction
+# MACE_Prediction
 
-- [MACE-Prediction](#mace-prediction)
+- [MACE_Prediction](#mace_prediction)
   - [Software interface](#software-interface)
   - [How to start with this software](#how-to-start-with-this-software)
   - [MACE model](#mace-model)
@@ -12,9 +12,7 @@
 
 
 
-![image-20221218232400411](MACE%20Prediction%20Software/softwareImage/software_interface.png)
-
-
+![software_interface](MACE_model/imgs/software_interface.png)
 
 
 
